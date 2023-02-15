@@ -1,0 +1,624 @@
+Beer PLU,Beer Name,Date Purchased,Store Name,Abv,Style,Color,Format
+60125,21ST AMEND BACK IN BLACK,7/12/2012 0:00,Crabapple,7.2,IPA,medium,draft
+10811,21st Amend Back in Black,6/11/2013 0:00,Mall of Georgia,7.2,IPA,medium,bottle
+61022,21ST AMEND BITTER AMERICN,4/19/2013 0:00,Mall of Georgia,4.4,ESB,medium,draft
+20137,21st Amend Bittr American,6/11/2013 0:00,Mall of Georgia,4.4,Pale Ale,medium,bottle
+10690,21st Amend Brew Free,5/24/2011 0:00,Crabapple,7,IPA,medium,bottle
+60049,21ST AMEND BREW FREE IPA,7/23/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+20247,21st Amend Hop Crisis,7/13/2013 0:00,Mall of Georgia,9.7,Double IPA,medium,bottle
+11188,ABITA AMBER,12/23/2007 0:00,Crabapple,5,Amber/Red Ale,medium,draft
+9001,Abita Amber,7/13/2013 0:00,Mall of Georgia,5,Amber/Red Ale,medium,bottle
+11501,ABITA ANDY GATOR,12/17/2007 0:00,Crabapple,8.6,Strong Ale,medium,draft
+10204,Abita Jockamo,4/19/2013 0:00,Mall of Georgia,6.5,IPA,medium,bottle
+11571,ABITA JOCKAMO IPA,7/18/2009 0:00,Crabapple,6.5,IPA,medium,draft
+11001,ABITA PURPLE HAZE,12/16/2007 0:00,Crabapple,4.75,Fruit/Herbed/Spice Beer,medium,draft
+60272,ABITA RYE PALE ALE,12/27/2010 0:00,Crabapple,8,Pale Ale,medium,draft
+60558,ABITA TRIPLE HAZE,6/10/2011 0:00,Crabapple,8,Flavored Wheat,light,draft
+63227,ABITA WROUGHT IRON,3/28/2015 0:00,Windward,6.9,IPA,medium,draft
+70380,ACE GUAVA,7/8/2022 13:43,Crabapple,5,Cider,light,draft
+11560,ALLAGASH BLACK,11/30/2013 0:00,Mall of Georgia,7.5,Belgian Dark Ale,dark,draft
+61271,ALLAGASH BLONDE,11/13/2013 0:00,Windward,8.2,Blonde Ale,light,draft
+11541,ALLAGASH WHITE,7/25/2008 0:00,Crabapple,5,Witbier/White Beer,light,draft
+11006,AMSTEL LIGHT,5/6/2013 0:00,Mall of Georgia,3.5,Lager,light,draft
+11546,ANCHOR CHRISTMAS,12/20/2010 0:00,Crabapple,5.5,Winter Warmer,medium,draft
+9007,Anchor Liberty,5/31/2011 0:00,Crabapple,6,Pale Ale,medium,bottle
+61372,ANCHOR SMALL BEER,6/2/2013 0:00,Crabapple,3.3,ESB,medium,draft
+11009,ANCHOR STEAM,12/5/2008 0:00,Crabapple,4.9,Amber Lagers,medium,draft
+20231,Anderson Valley Amber Can,8/22/2013 0:00,Crabapple,5.8,Amber/Red Ale,medium,can
+60156,ANDERSON VALLEY BNT AMB,4/13/2013 0:00,Woodstock,5.8,Amber/Red Ale,medium,draft
+61272,ANDERSON VALLEY HOP OTT,4/4/2013 0:00,Crabapple,7,IPA,medium,draft
+20469,Anderson Valley HopOt Can,7/21/2013 0:00,Crabapple,7,IPA,medium,can
+61521,ASS KISSER VANILLA PALE,5/28/2013 0:00,Mall of Georgia,5.5,Pale Ale,medium,draft
+60908,ATLBC HOPLANTA,2/21/2012 0:00,Crabapple,7,IPA,medium,draft
+20442,AtlBC Hoplanta,8/22/2013 0:00,Crabapple,7,IPA,medium,bottle
+10012,Avery 14er ESB,7/3/2008 0:00,Crabapple,5,ESB,medium,bottle
+60003,AVERY ELLIE'S BROWN ALE,7/16/2013 0:00,Mall of Georgia,5.5,Brown Ale,dark,draft
+20082,Avery Ellie's Brown CAN,1/14/2014 0:00,Crabapple,5.5,Brown Ale,dark,can
+11397,AVERY IPA,7/12/2012 0:00,Crabapple,6,IPA,medium,draft
+20083,Avery IPA CAN,7/11/2013 0:00,Mall of Georgia,6,IPA,medium,can
+11631,AVERY KARMA,7/18/2013 0:00,Crabapple,5.2,Belgian Pale,medium,draft
+20018,Avery Karma,9/16/2013 0:00,Mall of Georgia,5.2,Belgian Pale,medium,bottle
+11651,AVERY WHITE RASCAL,7/26/2008 0:00,Crabapple,5.5,Witbier/White Beer,light,draft
+61871,BACK FORTY FRECKLE BELL,3/28/2014 0:00,Mall of Georgia,7.5,IPA,medium,draft
+61026,BALLAST POINT BIGEYEIPA,1/16/2014 0:00,Crabapple,6.8,IPA,medium,draft
+10065,Baltika 4,8/12/2009 0:00,Crabapple,5.6,Dark Lager,dark,bottle
+11015,BASS,12/26/2007 0:00,Crabapple,5,Pale Ale,medium,draft
+62003,BAYOU TECHE LA 31 BIERE P,7/9/2013 0:00,Mall of Georgia,5.5,Pale Ale,medium,draft
+62222,BEER ARMY HEROES NEVR DIE,10/11/2013 0:00,xSouthpark,6.5,IPA,medium,draft
+11906,BELL'S AMBER ALE,5/21/2009 0:00,Crabapple,5.5,Amber/Red Ale,medium,draft
+12445,BELL'S CONSECRATOR DBL,3/30/2010 0:00,Crabapple,8,Doppelbock,dark,draft
+10607,Bell's Hopslam,1/31/2014 0:00,Crabapple,10,Double IPA,medium,bottle
+11907,BELL'S OBERON,6/2/2011 0:00,Crabapple,5.8,Wheat Beer,light,draft
+11908,BELL'S PALE ALE,6/1/2011 0:00,Mall of Georgia,5,Pale Ale,medium,draft
+10437,Bell's Pale Ale,6/6/2013 0:00,Mall of Georgia,5,Pale Ale,medium,bottle
+12276,BELL'S THIRD COAST BEER,12/17/2012 0:00,xEast Roswell,4.8,Pale Ale,medium,draft
+12256,BELL'S TWO HEARTED ALE,4/3/2010 0:00,Crabapple,7,IPA,medium,draft
+10516,Bell's Two Hearted Ale,7/25/2013 0:00,Mall of Georgia,7.1,IPA,medium,bottle
+10499,Bells Best Brown Ale,10/17/2013 0:00,Mall of Georgia,5.8,Brown Ale,dark,bottle
+62053,BLUE MOON AGAVE WHT 23oz,6/11/2013 0:00,Mall of Georgia,5.6,Flavored Wheat,light,draft
+9035,Blue Moon White,12/22/2007 0:00,Crabapple,5.4,Witbier/White Beer,light,bottle
+63022,BLUE MOON WHITE 23oz - 14,8/27/2014 0:00,Crabapple,5.4,Witbier/White Beer,light,draft
+60512,BLUE POINT HOPTICAL ILL,6/14/2013 0:00,Mall of Georgia,6.8,IPA,medium,draft
+60513,BLUE POINT RASTAFARYE,5/9/2013 0:00,Crabapple,7.5,Pale Ale,medium,draft
+61285,BLUE POINT WHITE IPA,12/12/2012 0:00,Crabapple,6,IPA,medium,draft
+62231,BLUE TARP FUNK WEISE,12/23/2013 0:00,Mall of Georgia,3,Wheat Beer,light,draft
+62070,BLUE TARP HOPSIDED,6/25/2013 0:00,Mall of Georgia,6.6,IPA,medium,draft
+11647,BLVRD UNFILTERED WHEAT,6/14/2013 0:00,Mall of Georgia,4.4,Wheat Beer,light,draft
+11023,BODDINGTONS,7/15/2009 0:00,Crabapple,4.6,Amber/Red Ale,medium,draft
+11628,BOULDER HAZED AND INFUS,10/7/2013 0:00,Mall of Georgia,4.8,Pale Ale,medium,draft
+10255,Boulder Hazed and Infused,1/6/2009 0:00,Crabapple,4.8,Pale Ale,medium,bottle
+11882,BOULDER MOJO IPA,10/17/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+10256,Boulder Mojo IPA,5/29/2009 0:00,Cumming,7,IPA,medium,bottle
+10257,Boulder Sweaty Betty,9/3/2008 0:00,Crabapple,5.9,Hefeweizen,light,bottle
+61741,BOULEVARD 80 ACRE HOP WHT,11/13/2013 0:00,Windward,5.4,Pale Ale,medium,draft
+62368,BOULEVARD NUTCRACKER ALE,11/14/2013 0:00,Crabapple,7.8,Brown Ale,dark,draft
+61430,BOULEVARD SSS DOUBLE WIDE,12/28/2012 0:00,Crabapple,8.5,Double IPA,medium,draft
+10189,Breckenridge Agave Wheat,7/3/2008 0:00,Crabapple,4.6,Flavored Wheat,light,bottle
+11503,BRECKENRIDGE AMBER,4/19/2013 0:00,Mall of Georgia,5.4,Amber/Red Ale,medium,draft
+20528,Breckenridge Avalanche CN,4/3/2013 0:00,Mall of Georgia,5.4,Amber/Red Ale,medium,can
+12222,BRECKENRIDGE LUCKY U IP,5/27/2011 0:00,Crabapple,6.2,IPA,medium,draft
+10492,Breckenridge Lucky U IPA,10/7/2013 0:00,Mall of Georgia,6.2,IPA,medium,bottle
+11789,BRECKENRIDGE PANDORA BOCK,2/21/2012 0:00,Crabapple,7.5,Dark Lager,dark,draft
+11593,BRECKENRIDGE SUMMER,9/4/2008 0:00,Crabapple,4.5,Wheat Beer,light,draft
+10155,Breckenridge Vanilla Port,5/28/2011 0:00,Crabapple,4.7,Porter,dark,bottle
+11532,BRECKENRIDGE XMAS,12/26/2012 0:00,Crabapple,7.4,Winter Warmer,medium,draft
+20179,Brew Dog Hardcore IPA,5/28/2011 0:00,Prado,9,IPA,medium,bottle
+20095,Brew Dog Punk,5/28/2011 0:00,Prado,5.6,IPA,medium,bottle
+61069,BRIDGEPORT DARK RAIN,2/21/2012 0:00,Crabapple,5.6,Pale Ale,medium,draft
+12361,BRIDGEPORT HOP CZAR,6/25/2013 0:00,Mall of Georgia,7.5,Double IPA,medium,draft
+10575,Bridgeport Hop Czar,12/26/2012 0:00,Crabapple,7.5,Double IPA,medium,bottle
+11355,BRIDGEPORT IPA,12/23/2010 0:00,Crabapple,5.5,IPA,medium,draft
+9906,BridgePort IPA,5/6/2013 0:00,Mall of Georgia,5.5,IPA,medium,bottle
+11411,BROOKLYN BROWN ALE,9/19/2013 0:00,Mall of Georgia,5.5,Brown Ale,dark,draft
+10038,Brooklyn Brown Ale,7/25/2013 0:00,Mall of Georgia,5.5,Brown Ale,dark,bottle
+61820,BROOKLYN DUNKEL WEISS,5/9/2013 0:00,Crabapple,5.1,Wheat Beer,light,draft
+11324,BROOKLYN EAST IPA,2/19/2012 0:00,Crabapple,7,IPA,medium,draft
+9876,Brooklyn East IPA,12/13/2008 0:00,Crabapple,7,IPA,medium,bottle
+61371,BROOKLYN GOLD STANDARD,7/12/2012 0:00,Crabapple,6.2,Lager,light,draft
+11323,BROOKLYN LAGER,5/2/2013 0:00,Crabapple,5.2,Amber Lagers,medium,draft
+9875,Brooklyn Lager,2/2/2008 0:00,Crabapple,5.2,Amber Lagers,medium,bottle
+11595,BROOKLYN PENNANT ALE,4/15/2013 0:00,Mall of Georgia,5.2,Pale Ale,medium,draft
+10039,Brooklyn Pilsner,7/25/2008 0:00,Crabapple,4.9,Pilsner,light,bottle
+61815,BROOKLYN SORACHI ACE 16,5/2/2013 0:00,Crabapple,7.5,Belgian Pale,medium,draft
+12494,BROOKLYN SUMMER,4/23/2013 0:00,Mall of Georgia,4.5,Pale Ale,medium,draft
+10129,Brooklyn Summer,7/7/2009 0:00,Crabapple,4.5,Pale Ale,medium,bottle
+11025,BUD,11/22/2007 0:00,Crabapple,4.9,Lager,light,draft
+9904,Bud Select,4/16/2013 0:00,Mall of Georgia,4.3,Lager,light,bottle
+10601,Bud Select 55,6/2/2013 0:00,Crabapple,2.6,Lager,light,bottle
+9042,Budweiser,9/2/2008 0:00,Cumming,4.9,Lager,light,bottle
+9042,Budweiser,1/21/2023 19:56,Crabapple,4.9,Lager,light,bottle
+11680,BUDWEISER AMERICAN ALE,12/9/2008 0:00,Crabapple,5.3,Amber/Red Ale,medium,draft
+20672,Budweiser Black Crown,4/13/2013 0:00,Woodstock,6,Amber Lagers,medium,bottle
+11404,BUTTE CREEK ORGANIC PILSN,10/13/2008 0:00,Crabapple,4.1,Pilsner,light,draft
+11502,BUTTE CREEK REVOLUTION 11,12/28/2007 0:00,Crabapple,8.6,IPA,medium,draft
+61426,CAROLINA BREWERY FLAG IPA,8/6/2013 0:00,Mall of Georgia,5.9,IPA,medium,draft
+20383,Carolina Brewery Flagship,8/23/2013 0:00,Mall of Georgia,5.7,IPA,medium,bottle
+60199,CHATTANOOGA IPA,4/8/2013 0:00,Mall of Georgia,6.1,IPA,medium,draft
+67802,CHERRY ST SLOW PUMP,2/23/2022 13:59,Crabapple,6,IPA,medium,draft
+62264,CHERRY ST WEST LA HOPAW,12/19/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+61774,CHOC OPA PALE ALE,10/4/2013 0:00,Mall of Georgia,6.7,Pale Ale,medium,draft
+63316,CHYST COCONUT PORTER,2/14/2015 0:00,Windward,6.5,Porter,dark,draft
+20279,Cigar City Jai Alai IPA,3/2/2014 0:00,Crabapple,7.5,IPA,medium,bottle
+62451,CISCO GREY LADY,2/6/2014 0:00,Crabapple,4.5,Witbier/White Beer,light,draft
+20527,Cisco Indie Pale Ale Can,12/21/2012 0:00,Crabapple,6.5,Pale Ale,medium,can
+62118,CISCO PUMPLE DRUMKIN,8/23/2013 0:00,Mall of Georgia,6.9,Pumpkin Ale,medium,draft
+20525,Cisco Summer Lager CAN,8/20/2013 0:00,Mall of Georgia,5.5,Lager,light,can
+20526,Cisco Whale Tale Can,12/21/2012 0:00,Crabapple,5.6,Pale Ale,medium,can
+62040,CISCO WHALE TALE PALE ALE,6/14/2013 0:00,Mall of Georgia,5.6,Pale Ale,medium,draft
+20797,Clown Shoes Galactica IPA,7/30/2013 0:00,Mall of Georgia,8,IPA,medium,bottle
+61728,CLOWN SHOES LET MY PEOPLE,8/6/2013 0:00,Mall of Georgia,6,Pale Ale,medium,draft
+61642,CLOWN SHOES MIRACLE IPA,4/8/2013 0:00,Mall of Georgia,5.5,IPA,medium,draft
+61184,CLOWN SHOES TRAMP STAMP,8/23/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+11565,CONEY ISLAND LAGER,8/5/2009 0:00,Crabapple,5.5,Amber Lagers,medium,draft
+12282,CONEY ISLAND MERMAID PILS,12/18/2009 0:00,Crabapple,5.3,Pilsner,light,draft
+9051,Coopers Pale Ale,4/2/2013 0:00,Mall of Georgia,4.5,Pale Ale,medium,bottle
+9054,Coors,1/10/2008 0:00,Crabapple,5,Lager,light,bottle
+61216,COORS BATCH 19,12/23/2012 0:00,Crabapple,5.5,Lager,light,draft
+9055,Coors Light,1/23/2016 0:00,Mall of Georgia,4.2,Lager,light,bottle
+10468,Coors Light 16 oz. CAN,3/27/2010 0:00,Crabapple,4.2,Lager,light,can
+9056,Corona Extra,1/1/2008 0:00,Crabapple,4.6,Lager,light,bottle
+63051,CREATURE COMFORTS REC R,1/23/2016 0:00,Mall of Georgia,5.5,Amber/Red Ale,medium,draft
+60794,CROWN VALLEY FARMHSE LAGR,2/22/2012 0:00,Mall of Georgia,4.7,Lager,light,draft
+23701,D9 Trash Panda,9/20/2018 0:00,Mall of Georgia,6.2,Sour Ale,medium,bottle
+9845,De Dolle Stille Nacht,4/3/2010 0:00,Crabapple,8,Belgian Dark Ale,dark,bottle
+71595,DESTL DEADHEAD,10/15/2022 14:44,Gainesville,6.9,IPA,medium,draft
+11455,DOGFISH 60 MINUTE IPA,7/16/2013 0:00,Mall of Georgia,6,IPA,medium,draft
+10087,Dogfish 60 Minute IPA,4/3/2013 0:00,Mall of Georgia,6,IPA,medium,bottle
+11456,DOGFISH 90 MINUTE IPA,10/30/2009 0:00,Crabapple,9,Double IPA,medium,draft
+10088,Dogfish 90 Minute IPA,7/9/2013 0:00,Mall of Georgia,9,Double IPA,medium,bottle
+11622,DOGFISH HEAD APRIHOP,4/22/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+60984,DOGFISH HEAD FAITHFULL,2/15/2012 0:00,Mall of Georgia,7,Belgian Pale,medium,draft
+11457,DOGFISH INDIAN BROWN,2/6/2014 0:00,Crabapple,7.2,Brown Ale,dark,draft
+61307,DUCK RABBIT HOPPY BUNNY,7/11/2013 0:00,Mall of Georgia,7.3,IPA,medium,draft
+20571,Duck Rabbit Hoppy Bunny,8/1/2013 0:00,Mall of Georgia,7.3,IPA,medium,bottle
+11369,DUCK RABBIT STOUT,12/14/2012 0:00,Mall of Georgia,5.7,Stout,dark,draft
+62430,EVENTIDE KOLSCH,2/6/2014 0:00,Crabapple,5.3,Kolsch,light,draft
+20645,Fat Cat Shawshank Injunct,8/1/2013 0:00,Mall of Georgia,5.1,Pale Ale,medium,bottle
+20433,Finch's Cut Throat 16oz,4/2/2013 0:00,Mall of Georgia,5.5,Pale Ale,medium,bottle
+61131,FINCH'S CUT THROAT PALE,8/9/2013 0:00,Mall of Georgia,5.5,Pale Ale,medium,draft
+20479,Finch's Threadless 16oz,9/5/2013 0:00,Crabapple,6,IPA,medium,bottle
+61369,FINCH'S THREADLESS IPA,7/10/2012 0:00,Crabapple,6,IPA,medium,draft
+11039,FLYING DOG DOGGIE STY,12/17/2007 0:00,Crabapple,5.3,Pale Ale,medium,draft
+9090,Flying Dog Doggie Style,7/11/2013 0:00,Mall of Georgia,5.3,Pale Ale,medium,bottle
+11467,FLYING DOG DOUBLE DOG,1/11/2008 0:00,Crabapple,10.5,Double IPA,medium,draft
+9709,Flying Dog In Heat Wheat,12/26/2007 0:00,Crabapple,4.7,Hefeweizen,light,bottle
+11041,FLYING DOG OLD SCRATCH,12/23/2007 0:00,Crabapple,5.3,Amber Lagers,medium,draft
+9094,Flying Dog Old Scratch,8/8/2013 0:00,Mall of Georgia,5.3,Amber Lagers,medium,bottle
+10814,Flying Dog Raging Bitch,7/30/2013 0:00,Mall of Georgia,8.3,IPA,medium,bottle
+9091,Flying Dog Snake Dog IPA,5/7/2013 0:00,Mall of Georgia,7.1,IPA,medium,bottle
+9095,Flying Dog Tire Biter,12/20/2012 0:00,Crabapple,5.1,Kolsch,light,bottle
+11484,FLYING DOG WOODY CREEK,5/25/2011 0:00,xEllard Village,4.8,Witbier/White Beer,light,draft
+11043,FOSTERS,12/17/2007 0:00,Crabapple,5,Lager,light,draft
+61112,FOUNDERS ALL DAY IPA,5/2/2013 0:00,Crabapple,4.7,IPA,medium,draft
+20423,Founders All Day IPA Btl,7/9/2013 0:00,Mall of Georgia,4.7,IPA,medium,bottle
+12325,FOUNDERS CENTENNIAL IPA,12/26/2010 0:00,Mall of Georgia,7.2,IPA,medium,draft
+10579,Founders Centennial IPA,4/18/2013 0:00,Mall of Georgia,7.2,IPA,medium,bottle
+12326,FOUNDERS DIRTY BASTARD,5/3/2013 0:00,Mall of Georgia,8.3,Strong Ale,medium,draft
+12328,FOUNDERS PALE ALE,6/2/2011 0:00,Crabapple,5.2,Pale Ale,medium,draft
+10582,Founders Pale Ale,9/16/2013 0:00,Mall of Georgia,5.2,Pale Ale,medium,bottle
+12340,FOUNDERS RED RYE,2/21/2012 0:00,Crabapple,6.8,IPA,medium,draft
+60809,FOUR FRIENDS MISTY MT HOP,10/13/2013 0:00,xSouthpark,7.8,IPA,medium,draft
+11420,FRENCH BROAD 13 REBELS,2/15/2012 0:00,Mall of Georgia,5.2,ESB,medium,draft
+11874,FRENCH BROAD WEE HEAVY-ER,1/9/2014 0:00,Mall of Georgia,7,Strong Ale,medium,draft
+11568,FT COLLINS CHOC STOUT,10/24/2009 0:00,Crabapple,5.3,Stout,dark,draft
+61996,FT COLLINS HOPTITUDE,5/4/2013 0:00,Mall of Georgia,7.5,IPA,medium,draft
+11569,FT COLLINS IPA,12/30/2010 0:00,Crabapple,6.2,IPA,medium,draft
+60435,FT COLLINS RED BANSHEE,5/30/2011 0:00,Crabapple,5.2,Amber/Red Ale,medium,draft
+61316,FT. COLLINS WHEAT WINE,12/16/2013 0:00,Mall of Georgia,9.3,Barley Wine,medium,draft
+10331,Full Sail Amber,12/27/2012 0:00,Crabapple,5.5,Amber/Red Ale,medium,bottle
+10327,Full Sail IPA,12/27/2012 0:00,Crabapple,6,IPA,medium,bottle
+10332,Full Sail Pale Ale,8/6/2009 0:00,Crabapple,5.4,Pale Ale,medium,bottle
+11230,FULLER'S LONDON PRIDE,12/23/2007 0:00,Crabapple,4.7,Pale Ale,medium,draft
+9697,Fuller's London Pride,7/16/2013 0:00,Mall of Georgia,4.7,Pale Ale,medium,bottle
+61626,GOOSE ISLAND 312 URBN WHT,12/13/2012 0:00,Crabapple,4.2,Wheat Beer,light,draft
+61625,GOOSE ISLAND HONKER'S A,12/12/2012 0:00,Mall of Georgia,4.2,ESB,medium,draft
+61627,GOOSE ISLAND IPA,12/11/2012 0:00,Crabapple,5.9,IPA,medium,draft
+60618,GREAT DIVIDE 17 ANNY,5/28/2011 0:00,Prado,10,IPA,medium,draft
+9923,Great Divide Denver Pale,12/22/2007 0:00,Crabapple,5.6,Pale Ale,medium,bottle
+11377,GREAT DIVIDE HERCULES,12/3/2008 0:00,Crabapple,10,Double IPA,medium,draft
+11551,GREAT DIVIDE HIBERNATIO,12/29/2010 0:00,Crabapple,8.1,Strong Ale,medium,draft
+61045,GREAT DIVIDE NOMAD,2/11/2012 0:00,Crabapple,5.4,Pilsner,light,draft
+60241,GREAT DIVIDE RUMBLE IPA,8/15/2013 0:00,Crabapple,7.1,IPA,medium,draft
+11587,GREAT DIVIDE TITAN IPA,4/18/2014 0:00,Mall of Georgia,6.8,IPA,medium,draft
+9924,Great Divide Titan IPA,12/17/2008 0:00,Crabapple,6.8,IPA,medium,bottle
+61947,GREEN FLASH CITRA SESSN,7/2/2013 0:00,Mall of Georgia,4.5,IPA,medium,draft
+62215,GREEN FLASH GREEN BULLE,10/10/2013 0:00,Mall of Georgia,10.1,Double IPA,medium,draft
+60091,GREEN FLASH HOP HEAD RE,12/12/2012 0:00,Crabapple,6.4,Amber/Red Ale,medium,draft
+62792,GREEN FLASH HOP ODYSY WHT,7/23/2014 0:00,Crabapple,7,IPA,medium,draft
+61946,GREEN FLASH IMPRL RED RYE,7/2/2013 0:00,Mall of Georgia,8.5,Double IPA,medium,draft
+60181,GREEN FLASH LE FREAK,7/10/2012 0:00,Crabapple,9.2,Belgian Specialty,medium,draft
+61971,GREEN FLASH SYMPOSIUM IPA,9/5/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+60092,GREEN FLASH W COAST IPA,4/4/2013 0:00,Crabapple,7.3,IPA,medium,draft
+9110,Grolsch Lager 16oz,7/25/2008 0:00,Crabapple,5,Lager,light,bottle
+11055,HARPOON IPA,4/19/2013 0:00,Mall of Georgia,5.9,IPA,medium,draft
+11056,HARPOON SUMMER,5/26/2011 0:00,Crabapple,4.8,Kolsch,light,draft
+9450,Harpoon UFO Hefe Weiss,1/6/2009 0:00,Crabapple,5.1,Hefeweizen,light,bottle
+60753,HARPOON UFO PUMPKIN,9/5/2013 0:00,Crabapple,5.9,Pumpkin Ale,medium,draft
+60377,HEAVY SEAS BLACK CANNON,2/16/2012 0:00,Crabapple,7.3,IPA,medium,draft
+60194,HEAVY SEAS GREATER PMPK,9/23/2013 0:00,Mall of Georgia,9,Pumpkin Ale,medium,draft
+20769,Heavy Seas Loose Cann Can,7/21/2013 0:00,Crabapple,7.5,IPA,medium,can
+11390,HEAVY SEAS LOOSE CANNON,7/12/2012 0:00,Crabapple,7.5,IPA,medium,draft
+9980,Heavy Seas Loose Cannon,5/7/2013 0:00,Mall of Georgia,7.5,IPA,medium,bottle
+61770,HEAVY SEAS POWDER MONKY,8/15/2013 0:00,Crabapple,4.8,Pale Ale,medium,draft
+11495,HEAVY SEAS RED SKY,9/5/2013 0:00,Mall of Georgia,8,Saison,light,draft
+9927,Heavy Seas Small Craft,5/4/2013 0:00,Mall of Georgia,7.5,Pilsner,light,bottle
+11448,HEAVY SEAS SMALL CRAFTW,3/14/2015 0:00,Windward,7.5,Pilsner,light,draft
+60929,HEBREW HOP MANNA,4/24/2014 0:00,Crabapple,6.8,IPA,medium,draft
+9123,Heineken,12/14/2007 0:00,Crabapple,5,Lager,light,bottle
+9962,Heineken Light,2/1/2008 0:00,Crabapple,3.3,Lager,light,bottle
+11398,HIGHLAND COLD MOUNTAIN,12/23/2010 0:00,Crabapple,5.8,Fruit/Herbed/Spice Beer,medium,draft
+11359,HIGHLAND GAELIC ALE,5/7/2013 0:00,Mall of Georgia,5.8,Amber/Red Ale,medium,draft
+9889,Highland Gaelic Ale,9/19/2013 0:00,Mall of Georgia,5.8,Amber/Red Ale,medium,bottle
+11423,HIGHLAND KASHMIR IPA,6/14/2013 0:00,Mall of Georgia,5.6,IPA,medium,draft
+10023,Highland Kashmir IPA,9/5/2013 0:00,Mall of Georgia,5.6,IPA,medium,bottle
+60549,HIGHLAND LITTLE HUMP,4/23/2013 0:00,Mall of Georgia,4.5,Pale Ale,medium,draft
+64081,HIGHLAND LOST COVE,8/31/2015 0:00,Crabapple,4.5,Pale Ale,medium,draft
+11337,HIGHLAND OATMEAL PORTER,1/14/2014 0:00,Crabapple,5.8,Porter,dark,draft
+11449,HIGHLAND ST THERESE PAL,4/8/2013 0:00,Mall of Georgia,5.2,Pale Ale,medium,draft
+9890,Highland St Therese Pale,4/16/2013 0:00,Mall of Georgia,5.2,Pale Ale,medium,bottle
+11060,HOEGAARDEN,12/23/2007 0:00,Crabapple,4.9,Witbier/White Beer,light,draft
+62265,HOFBRAU MUNCHEN OKTOBRF,10/3/2013 0:00,Mall of Georgia,6.3,Oktoberfest/Marzen,medium,draft
+11774,HOLY MACKERAL BELG GOLD,10/21/2009 0:00,Crabapple,8.5,Belgian Pale,medium,draft
+9135,Hornsby Draft Cider,12/29/2008 0:00,Crabapple,6,Cider,light,bottle
+9138,Icehouse,12/17/2008 0:00,Crabapple,5.5,Lager,light,bottle
+9140,Imperial,12/8/2007 0:00,Crabapple,4,Lager,light,bottle
+61936,INNIS & GUNN SCOTTISH PA,4/30/2013 0:00,Mall of Georgia,7,Pale Ale,medium,draft
+62230,JAILHOUSE 4D IPA VOL. 12,10/3/2013 0:00,Mall of Georgia,6,IPA,medium,draft
+60186,JAILHOUSE BREAKOUT STOU,12/29/2010 0:00,Crabapple,7.8,Stout,dark,draft
+60185,JAILHOUSE MUGSHOT IPA,8/6/2013 0:00,Mall of Georgia,6.7,IPA,medium,draft
+62441,JAILHOUSE RESTRAING ORD,2/13/2014 0:00,Crabapple,6.5,Porter,dark,draft
+62356,JEKYLL 'MERICN AMBR ALE,1/2/2014 0:00,Mall of Georgia,5.8,Amber/Red Ale,medium,draft
+62211,JEKYLL BIG CREEK KOLSCH,11/14/2013 0:00,Crabapple,5,Kolsch,light,draft
+64700,JEKYLL CATTYWOMPUS,4/11/2016 0:00,Windward,6.3,Brown Ale,dark,draft
+62292,JEKYLL COOTER BROWN,2/1/2014 0:00,Johns Creek,6,Brown Ale,dark,draft
+62588,JEKYLL HOOTN & HOLRN DI,3/28/2014 0:00,Mall of Georgia,8,Double IPA,medium,draft
+62212,JEKYLL HOP DANG DIGGITY,2/20/2014 0:00,Windward,6.7,IPA,medium,draft
+64699,JEKYLL KINSHIP,10/27/2016 0:00,Crabapple,6.3,Belgian Golden Ale,light,draft
+64050,JEKYLL PINEAPPLE HABANE,4/11/2016 0:00,Windward,6.7,IPA,medium,draft
+65466,JEKYLL SOUTHERN JUICE,12/24/2016 0:00,Crabapple,7,IPA,medium,draft
+9147,Killians Red,11/21/2007 0:00,Crabapple,4.9,Amber Lagers,medium,bottle
+62122,KONA BIG WAVE GOLDEN A,7/16/2013 0:00,Mall of Georgia,5.3,Blonde Ale,light,draft
+11637,KONA FIREROCK PALE,9/12/2013 0:00,Mall of Georgia,5.8,Pale Ale,medium,draft
+10265,Kona Firerock Pale Ale,5/24/2011 0:00,Crabapple,5.8,Pale Ale,medium,bottle
+60991,KONA KOKO BROWN ALE,2/22/2012 0:00,Mall of Georgia,5.5,Brown Ale,dark,draft
+11635,KONA LONGBOARD LAGER,9/4/2008 0:00,Crabapple,5.6,Lager,light,draft
+60851,KROMBACHER PILSNER,7/16/2012 0:00,Crabapple,4.8,Pilsner,light,draft
+11432,LAGUNITAS BROWN SHUGGA',12/27/2010 0:00,Crabapple,9.9,Brown Ale,dark,draft
+11396,LAGUNITAS CENSORED,2/2/2008 0:00,Crabapple,5.9,Pale Ale,medium,draft
+10004,Lagunitas Censored,4/18/2013 0:00,Mall of Georgia,5.9,Pale Ale,medium,bottle
+20601,Lagunitas Day Time IPA,2/8/2014 0:00,Mall of Georgia,4.6,IPA,medium,can
+10619,Lagunitas Dogtown Pale,5/31/2011 0:00,Crabapple,6.4,Pale Ale,medium,bottle
+11433,LAGUNITAS IPA,12/5/2008 0:00,Crabapple,5.7,IPA,medium,draft
+10005,Lagunitas IPA,7/23/2013 0:00,Mall of Georgia,5.7,IPA,medium,bottle
+60195,LAGUNITAS LIL SUMPIN WILD,9/12/2013 0:00,Mall of Georgia,8.8,Belgian Pale,medium,draft
+10440,Lagunitas Lil Sumpin',4/1/2013 0:00,Mall of Georgia,7.3,IPA,medium,bottle
+11643,LAGUNITAS LUCKY #13,7/30/2013 0:00,Mall of Georgia,8.3,Strong Ale,medium,draft
+10148,Lagunitas Maximus,7/2/2009 0:00,Crabapple,7.5,IPA,medium,bottle
+61359,LAGUNITAS NEW DGTWN PA,6/11/2013 0:00,Mall of Georgia,6.2,Pale Ale,medium,draft
+20366,Lagunitas Sucks,2/1/2014 0:00,Johns Creek,7.9,IPA,medium,bottle
+11931,LAGUNITAS UNDER SHUTDOW,4/18/2013 0:00,Mall of Georgia,9.2,Strong Ale,medium,draft
+10421,Lagunitas Undercover Shut,5/13/2009 0:00,Crabapple,9.2,Strong Ale,medium,bottle
+12440,LAGUNITAS WILCO TANGO F,3/27/2010 0:00,Crabapple,7.8,Strong Ale,medium,draft
+11812,LANDSHARK LAGER,3/7/2009 0:00,Crabapple,4.7,Lager,light,draft
+12347,LAZY MAG STH PECAN BROW,7/9/2013 0:00,Mall of Georgia,5,Brown Ale,dark,draft
+61287,LAZY MAGNOLIA SO HOPS'P,5/1/2014 0:00,Crabapple,6.9,IPA,medium,draft
+11459,LEFFE BLONDE,10/29/2009 0:00,Crabapple,6.6,Blonde Ale,light,draft
+10628,Left Hand 400 Lb. Monkey,3/31/2013 0:00,Mall of Georgia,7.1,IPA,medium,bottle
+11675,LEFT HAND 400 LB. MONKY,6/2/2011 0:00,Crabapple,7.1,IPA,medium,draft
+12372,LEFT HAND GOOD JU JU,5/2/2013 0:00,Crabapple,4.5,Fruit/Herbed/Spice Beer,medium,draft
+11384,LEFT HAND MILK STOUT,12/20/2007 0:00,Crabapple,6,Stout,dark,draft
+12481,LEFT HAND NITRO SAWTTH,12/30/2010 0:00,Crabapple,5.3,ESB,medium,draft
+11513,LEFT HAND OKTOBERFEST,11/2/2009 0:00,Crabapple,6,Oktoberfest/Marzen,medium,draft
+11816,LEFT HAND SMOKE JUMPER,6/11/2009 0:00,Crabapple,9.2,Porter,dark,draft
+20098,Left Hand Stranger,5/30/2011 0:00,Crabapple,5,Pale Ale,medium,bottle
+11815,LEFT HAND TWIN SISTERS,6/14/2013 0:00,Mall of Georgia,9.6,Double IPA,medium,draft
+11871,LEINENKUGEL AMBER ALE,7/15/2009 0:00,Crabapple,4.9,Amber/Red Ale,medium,draft
+60298,LEINENKUGEL BIG EDDY RIS,12/23/2010 0:00,Crabapple,9.5,Imperial Stout,dark,draft
+11395,LEINENKUGEL SUNSET WHEA,11/21/2007 0:00,Crabapple,4.9,Flavored Wheat,light,draft
+69036,LINE CREEK JAY BIRD,11/3/2019 0:00,Mall of Georgia,4,Berliner Weiss,light,draft
+62724,LONE RIDER ADDIES RVNG,6/26/2014 0:00,Crabapple,6.6,IPA,medium,draft
+60480,LONE RIDER PEACEMAKER,5/28/2013 0:00,Mall of Georgia,5.7,Pale Ale,medium,draft
+62338,LONE RIDER RED SPUR,3/27/2014 0:00,Crabapple,7.3,Amber/Red Ale,medium,draft
+60479,LONE RIDER SWT JOSIE BR,10/4/2013 0:00,Mall of Georgia,6.1,Brown Ale,dark,draft
+9170,Lone Star,11/21/2007 0:00,Crabapple,4.7,Lager,light,bottle
+10778,Mad River Double Dread,6/6/2013 0:00,Mall of Georgia,8.6,Strong Ale,medium,bottle
+10819,Mad River Jamaica Red,4/11/2013 0:00,Crabapple,6.6,Amber/Red Ale,medium,bottle
+63776,MAGIC HAT ELECTRIC PEEL,7/11/2015 0:00,Crabapple,6.2,IPA,medium,draft
+11878,MAGIC HAT WACKO,6/5/2009 0:00,Crabapple,5.4,Flavored and Malt Beverages,medium,draft
+11079,MICHELOB LIGHT,11/22/2007 0:00,Crabapple,4.3,Lager,light,draft
+11253,MICHELOB ULTRA,12/19/2010 0:00,Crabapple,4.2,Lager,light,draft
+9753,Michelob Ultra,7/23/2014 0:00,Crabapple,4.2,Lager,light,bottle
+9953,Michelob Ultra Amber,12/17/2008 0:00,Crabapple,5,Amber Lagers,medium,bottle
+9188,Mickey's,9/23/2013 0:00,Mall of Georgia,5.6,Lager,light,bottle
+11059,MILLER HIGH LIFE,10/29/2009 0:00,Crabapple,4.6,Lager,light,draft
+11157,MILLER LITE,12/28/2008 0:00,Crabapple,4.2,Lager,light,draft
+62035,MNDNT BLIND PIRATE,7/2/2013 0:00,Mall of Georgia,7.4,Double IPA,medium,draft
+11219,MOLSON CANADIAN,6/9/2013 0:00,Mall of Georgia,5,Lager,light,draft
+9663,Molson Canadian,12/17/2008 0:00,Crabapple,5,Lager,light,bottle
+9190,Molson Golden,12/17/2008 0:00,Crabapple,5,Lager,light,bottle
+20818,Monday Night Drafty Kilt,9/27/2013 0:00,Crabapple,7.2,Scotch Ale,light,bottle
+60767,MONDAY NIGHT EYE PATCH,12/12/2012 0:00,Crabapple,6.2,IPA,medium,draft
+20819,Monday Night Eye Patch,7/21/2013 0:00,Crabapple,6.2,IPA,medium,bottle
+61361,MONDAY NIGHT FU MANBREW,6/5/2014 0:00,Crabapple,5.2,Witbier/White Beer,light,draft
+62874,MONDAY NIGHT NERD ALERT,7/28/2014 0:00,Windward,5.7,Pilsner,light,draft
+65389,MONDAY NT DAD BOD,12/26/2016 0:00,Crabapple,6,Saison,light,draft
+11346,MONTY PYTHON'S HOLY GRA,4/22/2013 0:00,Mall of Georgia,4.7,Amber/Red Ale,medium,draft
+65778,MOTHER EARTH BOOKOO,7/8/2022 13:43,Crabapple,6.5,IPA,medium,draft
+60176,MOTHER EARTH DK CLOUD D,12/12/2013 0:00,Mall of Georgia,5.1,Dark Lager,dark,draft
+60715,MOTHER EARTH OLD NGHBR,2/20/2014 0:00,Windward,5.5,Porter,dark,draft
+20660,Mother Earth Sister Moon,12/28/2012 0:00,Crabapple,6.9,IPA,medium,bottle
+60178,MOTHER EARTH WEEP WILWT,12/26/2013 0:00,Mall of Georgia,5,Witbier/White Beer,light,draft
+11926,MOYLANS DOUBLE IPA,10/4/2013 0:00,Mall of Georgia,8.5,IPA,medium,draft
+11927,MOYLANS IPA,11/2/2009 0:00,Crabapple,6.5,IPA,medium,draft
+61416,NATTY GREENES FREEDOM I,10/13/2013 0:00,xSouthpark,6.5,IPA,medium,draft
+11711,NEW BELGIUM 1554 BLACK,12/29/2010 0:00,Crabapple,5.5,Belgian Dark Ale,dark,draft
+12208,NEW BELGIUM 2 BELOW,12/19/2010 0:00,Crabapple,6.6,ESB,medium,draft
+60992,NEW BELGIUM DIG PALE ALE,2/11/2012 0:00,Crabapple,5.6,Pale Ale,medium,draft
+11681,NEW BELGIUM FAT TIRE,12/18/2009 0:00,Crabapple,5.2,Amber/Red Ale,medium,draft
+60517,NEW BELGIUM LE TERROIR,12/26/2013 0:00,Mall of Georgia,7.5,Sour Ale,medium,draft
+11710,NEW BELGIUM MOTHERSHIP,9/14/2009 0:00,Crabapple,4.8,Witbier/White Beer,light,draft
+61876,NEW BELGIUM RAMPANT IIP,3/31/2013 0:00,Mall of Georgia,8.5,Double IPA,medium,draft
+12346,NEW BELGIUM RANGER IPA,4/1/2010 0:00,Crabapple,6.5,IPA,medium,draft
+10587,New Belgium Ranger IPA,4/9/2013 0:00,Mall of Georgia,6.5,IPA,medium,bottle
+61999,NEW BELGIUM ROLLE BOLLE,7/11/2013 0:00,Mall of Georgia,5.2,Fruit/Herbed/Spice Beer,medium,draft
+61822,NEW BELGIUM SHIFT,4/2/2013 0:00,Mall of Georgia,5,Lager,light,draft
+20452,New Belgium Shift 16oz,12/17/2012 0:00,xEast Roswell,5,Lager,light,bottle
+60527,NEW BELGIUM TRIPEL,5/31/2011 0:00,Crabapple,7.8,Tripel,medium,draft
+66801,NEW BELGIUM VOODOO JUIC,12/22/2019 0:00,Mall of Georgia,7.5,IPA,medium,draft
+61592,NEW HOLLAND CABIN FEVER,2/14/2015 0:00,Windward,6,Brown Ale,dark,draft
+60160,NEW HOLLAND FULL CIRCLE,4/2/2013 0:00,Mall of Georgia,5.25,Blonde Ale,light,draft
+60158,NEW HOLLAND MAD HATTER,3/31/2013 0:00,Mall of Georgia,7,IPA,medium,draft
+60159,NEW HOLLAND THE POET,4/4/2013 0:00,Crabapple,5.2,Stout,dark,draft
+61918,NEW HOLLAND WHITE HATTE,11/21/2013 0:00,Mall of Georgia,5.5,Belgian Pale,medium,draft
+11087,NEWCASTLE BROWN ALE,7/11/2013 0:00,Mall of Georgia,4.7,Brown Ale,dark,draft
+61726,NIMBUS PALO VERDE,4/9/2013 0:00,Mall of Georgia,5.5,Pale Ale,medium,draft
+61016,NODA HOP DROP 'N ROLL,10/13/2013 0:00,xSouthpark,7.2,IPA,medium,draft
+60996,NODA RAMBLE ON RED,10/11/2013 0:00,xSouthpark,5,Amber/Red Ale,medium,draft
+60232,NOGNE O TWO CAPTAINS IPA,2/22/2012 0:00,Mall of Georgia,8.5,IPA,medium,draft
+11104,NORTH COAST RED SEAL,8/14/2009 0:00,Crabapple,5.5,Amber/Red Ale,medium,draft
+11511,NORTH COAST SCRIMSHAW,8/13/2013 0:00,Mall of Georgia,4.4,Pilsner,light,draft
+20694,O'Dempsey Big Red,4/16/2013 0:00,Mall of Georgia,6,Amber/Red Ale,medium,bottle
+61943,O'DEMPSEY'S COLD ONE,6/4/2013 0:00,Mall of Georgia,5.6,Pale Ale,medium,draft
+60189,O'DEMPSEY'S INUKSHUK IP,12/30/2010 0:00,Crabapple,7,IPA,medium,draft
+20748,O'Dempsey's Inukshuk IPA,6/4/2013 0:00,Mall of Georgia,7,IPA,medium,bottle
+9201,O'Doull's N/A,9/1/2009 0:00,Crabapple,0.5,Non-Alcoholic,light,bottle
+11343,OB DALE'S PALE ALE,7/15/2009 0:00,Crabapple,6.5,Pale Ale,medium,draft
+10028,OB Dales Pale Ale,12/13/2012 0:00,Crabapple,6.5,Pale Ale,medium,bottle
+61101,OB DEVIANTS DALE'S IPA,11/30/2013 0:00,Mall of Georgia,8,Double IPA,medium,draft
+60548,OB G'KNIGHT,4/30/2013 0:00,Mall of Georgia,8.7,Double IPA,medium,draft
+20171,OB G'Knight,4/3/2013 0:00,Mall of Georgia,8.7,Double IPA,medium,bottle
+10495,OB Mama L'il Yella Pils,8/20/2013 0:00,Mall of Georgia,5.3,Pilsner,light,bottle
+11758,OB MAMA'S LI'L YELLA PI,9/24/2009 0:00,Crabapple,5.3,Pilsner,light,draft
+60586,OB OLD CHUB NITRO,9/12/2013 0:00,Mall of Georgia,8,Scotch Ale,light,draft
+11586,OLD DOMINION LAGER,7/3/2008 0:00,Crabapple,5.4,Lager,light,draft
+20546,Omission Pale Ale (GF),8/16/2013 0:00,Mall of Georgia,5.8,Pale Ale,medium,bottle
+62069,OMMEGANG FLEUR DE HOUBLON,8/9/2013 0:00,Mall of Georgia,6.8,Belgian Pale,medium,draft
+11353,OMMEGANG HENNEPIN SAISO,7/3/2008 0:00,Crabapple,7.7,Saison,light,draft
+11606,OMMEGANG RARE VOS,3/30/2010 0:00,Crabapple,6.5,Belgian Pale,medium,draft
+11621,OMMEGANG WITTE,4/1/2010 0:00,Crabapple,5.1,Witbier/White Beer,light,draft
+11089,PAULANER HEFE,11/9/2007 0:00,Crabapple,5.5,Hefeweizen,light,draft
+11098,PILSNER URQUELL,1/3/2008 0:00,Crabapple,4.4,Pilsner,light,draft
+63521,PONTO NO PANTS PILSNE,3/14/2015 0:00,Windward,5.5,Pilsner,light,draft
+60625,PORT HOT ROCKS LAGER,5/25/2011 0:00,xEllard Village,6.5,Dark Lager,dark,draft
+60397,PORT MONGO,10/10/2013 0:00,Mall of Georgia,8,Double IPA,medium,draft
+60857,PORT SANTAS LITTLE HELPER,12/23/2012 0:00,Crabapple,10,Imperial Stout,dark,draft
+60395,PORT SHARK ATTACK DIPA,5/18/2011 0:00,Crabapple,9.2,Strong Ale,medium,draft
+60394,PORT WIPEOUT IPA,12/13/2012 0:00,Crabapple,7,IPA,medium,draft
+62642,RED HARE COTTON TL PALE,4/10/2014 0:00,Crabapple,5.5,Pale Ale,medium,draft
+60817,RED HARE GANGWAY IPA,7/10/2012 0:00,Crabapple,6.2,IPA,medium,draft
+20653,Red Hare Gangway IPA Can,7/21/2013 0:00,Crabapple,6.2,IPA,medium,can
+60818,RED HARE LONG DAY LAGER,1/23/2014 0:00,Crabapple,5.2,Lager,light,draft
+20570,Red Hare Long Day Lgr Can,4/18/2013 0:00,Mall of Georgia,5.2,Lager,light,can
+62418,RED HARE MONGO BROWN,1/16/2014 0:00,Crabapple,7.7,Brown Ale,dark,draft
+20733,Red Hare Watership Br Can,6/2/2013 0:00,Crabapple,7.2,Brown Ale,dark,can
+11175,REDHOOK LONG HAMMER IPA,1/1/2008 0:00,Crabapple,6.5,IPA,medium,draft
+62376,REDHOOK PUMPKIN PORTER,1/2/2014 0:00,Mall of Georgia,5.8,Pumpkin Ale,medium,draft
+35972,Refor Fresh Hop 16CAN,10/24/2021 17:17,Crabapple,7,IPA,medium,can
+69589,REFORMATION REY,1/16/2020 0:00,Mall of Georgia,9.4,Double IPA,medium,draft
+11964,REUNION BEER 09 BY TERP,9/11/2009 0:00,Crabapple,7,Witbier/White Beer,light,draft
+11667,RJ ROCKERS BELL RINGER,6/4/2013 0:00,Mall of Georgia,8.5,Strong Ale,medium,draft
+10316,RJ Rockers Patriot Pale,1/6/2009 0:00,Crabapple,6,Pale Ale,medium,bottle
+9821,Rock Green Light,12/17/2008 0:00,Crabapple,3.7,Lager,light,bottle
+11979,ROGUE CAPT'N SIG'S NW ALE,4/1/2010 0:00,Crabapple,6.2,Amber/Red Ale,medium,draft
+60295,ROGUE CHATOE CREEK ALE,12/30/2010 0:00,Crabapple,6,Dubbel,dark,draft
+60457,ROGUE CHATOE DIRTOIR,12/27/2012 0:00,Crabapple,5,Dark Lager,dark,draft
+61722,ROGUE CHATOE ROUGENBIER,12/21/2013 0:00,Crabapple,6.6,Brown Ale,dark,draft
+60576,ROGUE DAD'S LITTLE HELPER,6/9/2013 0:00,Mall of Georgia,6,IPA,medium,draft
+11114,ROGUE DEAD GUY,11/20/2007 0:00,Crabapple,6.5,Amber/Red Ale,medium,draft
+11654,ROGUE DOUBLE DEAD GUY,9/3/2008 0:00,Crabapple,9.5,Strong Ale,medium,draft
+11116,ROGUE HAZELNUT BR NECTR,10/4/2013 0:00,Mall of Georgia,6.2,Brown Ale,dark,draft
+11553,ROGUE JUNIPER ALE,1/3/2008 0:00,Crabapple,5.3,Pale Ale,medium,draft
+11825,ROGUE MOGUL,12/23/2012 0:00,Crabapple,6.2,Strong Ale,medium,draft
+11887,ROGUE RUSSIAN IMP STOUT,5/18/2011 0:00,Crabapple,11,Imperial Stout,dark,draft
+60763,ROGUE SMOKE ALE,2/16/2012 0:00,Crabapple,7,Brown Ale,dark,draft
+11189,ROGUE YELLOW SNOW,12/20/2012 0:00,Crabapple,5.3,Pale Ale,medium,draft
+9249,Rolling Rock,1/8/2008 0:00,Crabapple,4.6,Lager,light,bottle
+62417,SAMUEL ADAMS REBEL IPA,1/24/2014 0:00,Crabapple,6.5,IPA,medium,draft
+9262,Samuel Adams Summer,10/6/2009 0:00,Crabapple,5.2,Blonde Ale,light,bottle
+60999,SAMUEL ADAMS WHITEWATER,2/11/2012 0:00,Crabapple,5.8,IPA,medium,draft
+11127,SAMUEL ADAMS WINTER,11/20/2007 0:00,Crabapple,5.8,Amber Lagers,medium,draft
+9285,Samuel Smith IPA,10/6/2009 0:00,Crabapple,5,IPA,medium,bottle
+9788,Scarecrow,12/12/2012 0:00,Mall of Georgia,4.7,Pale Ale,medium,bottle
+11302,SCHNEIDER AVENTINUS,7/7/2009 0:00,Crabapple,8,Doppelbock,dark,draft
+65303,SCOFFLAW BASEMENT IPA,4/9/2022 4:00,Crabapple,7.8,IPA,medium,draft
+65303,SCOFFLAW BASEMENT IPA,4/9/2022 20:37,Crabapple,7.8,IPA,medium,draft
+67405,SCOFFLAW JAYWALKER,5/4/2019 0:00,Prado,4.9,IPA,medium,draft
+68937,SECOND SELF GOLDEN BLON,11/3/2019 0:00,Mall of Georgia,4.4,Blonde Ale,light,draft
+63193,SECOND SELF LIPA,12/29/2014 0:00,Crabapple,4.3,IPA,medium,draft
+71421,SERVI FREEDOM MACHINE,6/28/2022 14:48,Crabapple,6.7,IPA,medium,draft
+63627,SERVICE BREW COMPASS RO,12/26/2016 0:00,Crabapple,6,IPA,medium,draft
+11129,SHINER BOCK,4/1/2010 0:00,Crabapple,4.4,Bock,dark,draft
+11830,SHINER COMMEMORATOR,3/27/2010 0:00,Crabapple,6.7,Doppelbock,dark,draft
+9909,Shipyard Export,7/26/2008 0:00,Crabapple,5,Blonde Ale,light,bottle
+11572,SHOCK TOP WHITE,8/27/2014 0:00,Crabapple,5.2,Witbier/White Beer,light,draft
+71857,SIERR LIQUID HOPINESS,9/21/2022 15:24,Crabapple,7,IPA,medium,draft
+11516,SIERRA NEVADA ANNIVERSARY,8/14/2009 0:00,Crabapple,5.9,IPA,medium,draft
+11331,SIERRA NEVADA BIGFOOT,4/1/2010 0:00,Crabapple,9.6,Barley Wine,medium,draft
+11547,SIERRA NEVADA CELEBRATI,12/8/2007 0:00,Crabapple,6.8,IPA,medium,draft
+9878,Sierra Nevada Celebration,12/16/2013 0:00,Mall of Georgia,6.8,IPA,medium,bottle
+61466,SIERRA NEVADA NARWHAL R,12/28/2012 0:00,Crabapple,10.2,Imperial Stout,dark,draft
+60260,SIERRA NEVADA NHM HRVST,12/28/2010 0:00,Mall of Georgia,6.7,IPA,medium,draft
+60560,SIERRA NEVADA OVILA DBBEL,12/23/2012 0:00,Crabapple,7.5,Belgian Dark Ale,dark,draft
+11130,SIERRA NEVADA PALE,9/25/2009 0:00,Crabapple,5.6,Pale Ale,medium,draft
+9273,Sierra Nevada Pale Ale,12/15/2012 0:00,xEast Roswell,5.6,Pale Ale,medium,bottle
+20493,Sierra Nevada Pale CAN,1/24/2014 0:00,Crabapple,5.7,Pale Ale,medium,can
+11131,SIERRA NEVADA PORTER,3/22/2010 0:00,Crabapple,5.6,Porter,dark,draft
+60960,SIERRA NEVADA RUTHLESS RY,1/23/2014 0:00,Crabapple,6.6,IPA,medium,draft
+11624,SIERRA NEVADA STHRN HM,5/31/2009 0:00,Crabapple,6.7,IPA,medium,draft
+60540,SIERRA NEVADA TRPDO IPA,5/27/2011 0:00,Crabapple,6.8,IPA,medium,draft
+60090,SIERRA NEVADA TUMBLER BRN,8/8/2013 0:00,Mall of Georgia,5.8,Brown Ale,dark,draft
+61834,SIX POINT BENGALI TIGER,6/6/2013 0:00,Mall of Georgia,6.4,IPA,medium,draft
+61838,SIX POINT RIGHTEOUS ALE,4/11/2013 0:00,Crabapple,6.3,Amber/Red Ale,medium,draft
+11526,SLEEMAN LA RUSSE,11/20/2007 0:00,Crabapple,5.5,Amber/Red Ale,medium,draft
+68417,SLOW POUR LAGERJAMMIN,3/7/2019 0:00,Mall of Georgia,4.5,Lager,light,draft
+12277,SMUTTYNOSE BIG A IPA,12/28/2010 0:00,Mall of Georgia,9.2,IPA,medium,draft
+11798,SMUTTYNOSE IPA,3/20/2009 0:00,Crabapple,6.6,IPA,medium,draft
+11799,SMUTTYNOSE OLDBRWN DOG,12/28/2012 0:00,Crabapple,5.7,Brown Ale,dark,draft
+20158,Smuttynose Shoals Pale,4/4/2013 0:00,Crabapple,5,Pale Ale,medium,bottle
+63838,SOUTHBOUND SCATTERED SU,7/11/2015 0:00,Crabapple,5,Witbier/White Beer,light,draft
+62000,SOUTHERN TIER 2X STEAM,6/4/2013 0:00,Mall of Georgia,8,ESB,medium,draft
+12432,SOUTHERN TIER IPA,4/23/2013 0:00,Mall of Georgia,6.5,IPA,medium,draft
+60271,SOUTHERN TIER KRAMPUS,12/23/2010 0:00,Crabapple,9,Pilsner,light,draft
+12434,SOUTHERN TIER PHIN & MATT,7/11/2012 0:00,Mall of Georgia,5.6,Pale Ale,medium,draft
+60129,SOUTHERN TIER PUMKING,7/30/2013 0:00,Mall of Georgia,9,Pumpkin Ale,medium,draft
+9281,Spaten Franz Hefe,12/17/2012 0:00,xEast Roswell,5,Hefeweizen,light,bottle
+11135,SPATEN LAGER,1/10/2008 0:00,Crabapple,5.2,Lager,light,draft
+11136,SPATEN OKTOBERFEST,9/11/2009 0:00,Crabapple,5.9,Oktoberfest/Marzen,medium,draft
+11872,SPATEN PILSNER,5/31/2009 0:00,Crabapple,5,Pilsner,light,draft
+20196,Sprecher Black Bavrn 16oz,8/20/2013 0:00,Mall of Georgia,6,Dark Lager,dark,bottle
+9293,St. Pauli Light,1/3/2008 0:00,Crabapple,4.9,Lager,light,bottle
+62024,STARR HILL GRATEFUL PAL,3/2/2014 0:00,Crabapple,4.7,Pale Ale,medium,draft
+62779,STARR HILL SOUL SHINE,6/26/2014 0:00,Crabapple,5.2,Pale Ale,medium,draft
+62023,STARR HILL WHITER SHADE,7/26/2014 0:00,Crabapple,7.5,IPA,medium,draft
+11169,STELLA ARTOIS,2/2/2008 0:00,Crabapple,5.2,Lager,light,draft
+9504,Stella Artois,4/19/2013 0:00,Mall of Georgia,5.2,Lager,light,bottle
+60702,STIEGL GOLDBRAU,5/4/2013 0:00,Mall of Georgia,7.9,Lager,light,draft
+11519,STONE ARROGANT BASTARD,5/27/2009 0:00,Crabapple,7.2,Strong Ale,medium,draft
+11683,STONE IPA,12/3/2008 0:00,Crabapple,6.9,IPA,medium,draft
+11687,STONE LEVITATION,5/28/2011 0:00,Crabapple,4.4,Pale Ale,medium,draft
+11682,STONE PALE ALE,12/27/2010 0:00,Crabapple,5.4,Pale Ale,medium,draft
+10333,Stone Pale Ale,1/9/2014 0:00,Mall of Georgia,5.4,Pale Ale,medium,bottle
+11686,STONE RUINATION,10/10/2013 0:00,Mall of Georgia,7.7,IPA,medium,draft
+10336,Stone Ruination,2/13/2014 0:00,Crabapple,7.7,IPA,medium,can
+11850,STONE SUBLIME SELF-RIGH,5/4/2013 0:00,Mall of Georgia,8.7,Strong Ale,medium,draft
+11957,STOUDTS AMERICAN PALE,12/20/2012 0:00,Crabapple,5,Pale Ale,medium,draft
+9938,Stoudts Double IPA,5/31/2011 0:00,Crabapple,10,Double IPA,medium,bottle
+11958,STOUDTS SCARLET LADY,2/10/2012 0:00,xEast Roswell,5,ESB,medium,draft
+61640,STRAIGHT TO MONKEYNAUT,8/5/2014 0:00,Johns Creek,7.2,IPA,medium,draft
+11139,STRONGBOW,1/1/2008 0:00,Crabapple,5,Cider,light,draft
+61068,SWEETWATER 15TH ANNIVRSRY,2/19/2012 0:00,Crabapple,10,Strong Ale,medium,draft
+11140,SWEETWATER 420,1/10/2008 0:00,Crabapple,5.4,Pale Ale,medium,draft
+11140,SWEETWATER 420,6/28/2022 14:48,Crabapple,5.4,Pale Ale,medium,draft
+9298,SweetWater 420,4/1/2013 0:00,Mall of Georgia,5.4,Pale Ale,medium,bottle
+62781,SWEETWATER BOBBLEHEAD BOB,7/26/2014 0:00,Crabapple,6,Stout,dark,draft
+62251,SWEETWATER CRANK TNK HLLS,10/3/2013 0:00,Mall of Georgia,5.8,Lager,light,draft
+11510,SWEETWATER DONKEY PUNCH,12/14/2007 0:00,Crabapple,10.5,Barley Wine,medium,draft
+61980,SWEETWATER DT SOME STRANG,4/30/2013 0:00,Mall of Georgia,9,Double IPA,medium,draft
+67566,SWEETWATER G13 IPA,11/30/2021 19:32,Crabapple,6,IPA,medium,draft
+11191,SWEETWATER GEORGIA BROW,12/19/2007 0:00,Crabapple,5.1,Brown Ale,dark,draft
+9824,SweetWater Georgia Brown,5/3/2013 0:00,Mall of Georgia,5.1,Brown Ale,dark,bottle
+11314,SWEETWATER HAPPY ENDING,3/23/2010 0:00,Crabapple,9,Imperial Stout,dark,draft
+11338,SWEETWATER HUMMER,12/9/2008 0:00,Crabapple,5.1,Witbier/White Beer,light,draft
+11143,SWEETWATER IPA,11/21/2007 0:00,Crabapple,6.2,IPA,medium,draft
+9302,SweetWater IPA,4/1/2013 0:00,Mall of Georgia,6.2,IPA,medium,bottle
+20980,SweetWater IPA Can 16 oz,4/24/2014 0:00,Crabapple,6.4,IPA,medium,can
+61275,SWEETWATER LOW RYEDER,7/11/2012 0:00,Mall of Georgia,6.2,IPA,medium,draft
+11664,SWEETWATER MOTOR BOAT,9/1/2009 0:00,Crabapple,5.6,ESB,medium,draft
+62425,SWEETWATER PINEAPPLE EX,1/31/2014 0:00,Crabapple,6.2,IPA,medium,draft
+11479,SWEETWATER ROAD TRIP,11/9/2007 0:00,Crabapple,5.3,Pilsner,light,draft
+10123,Sweetwater Road Trip,7/2/2013 0:00,Mall of Georgia,5.3,Pilsner,light,bottle
+12355,SWEETWATER SCH'WHEAT,12/27/2010 0:00,Crabapple,4.7,Wheat Beer,light,draft
+60603,SWEETWATER WATERKEEPER,6/2/2011 0:00,Crabapple,5.7,Hefeweizen,light,draft
+9307,Tecate 12oz Can,12/27/2012 0:00,Crabapple,4.5,Lager,light,can
+60269,TERRA SO FRESH & GREEN,12/22/2019 0:00,Mall of Georgia,6.6,IPA,medium,draft
+11856,TERRAPIN 30 STRONG,6/19/2009 0:00,Crabapple,8.5,Strong Ale,medium,draft
+60342,TERRAPIN BIG DADDY VLADY,12/20/2010 0:00,Crabapple,10.2,Imperial Stout,dark,draft
+66319,TERRAPIN CHOPSECUTIONER,7/11/2019 0:00,Mall of Georgia,5.5,IPA,medium,draft
+11295,TERRAPIN GOLDEN ALE,12/22/2007 0:00,Crabapple,5,Blonde Ale,light,draft
+20995,Terrapin Hi 5 IPA CAN,5/1/2014 0:00,Crabapple,5.9,IPA,medium,can
+12356,TERRAPIN HOP KARMA,12/30/2010 0:00,Crabapple,6,Brown Ale,dark,draft
+12209,TERRAPIN HOPSECUTIONER,5/30/2011 0:00,Crabapple,7.3,IPA,medium,draft
+60005,TERRAPIN HOPZILLA,5/9/2013 0:00,Crabapple,10.7,IPA,medium,draft
+11345,TERRAPIN IMPERIAL PILSNER,7/25/2008 0:00,Crabapple,7.5,Pilsner,light,draft
+61638,TERRAPIN LIQUID BLISS,12/15/2012 0:00,xEast Roswell,6.7,Porter,dark,draft
+11951,TERRAPIN MAGGIES FARM,8/12/2009 0:00,Crabapple,6.3,Fruit/Herbed/Spice Beer,medium,draft
+11828,TERRAPIN MONKS REVENGE,5/28/2011 0:00,Prado,9.8,Belgian Specialty,medium,draft
+60280,TERRAPIN MOO-HOO,12/23/2012 0:00,Crabapple,6,Stout,dark,draft
+62711,TERRAPIN RECREATION,3/14/2015 0:00,Windward,4.7,Pale Ale,medium,draft
+20774,Terrapin RecreationAle CN,2/8/2014 0:00,Mall of Georgia,4.7,Pale Ale,medium,bottle
+11259,TERRAPIN RYE PALE ALE,11/22/2007 0:00,Crabapple,5.3,Pale Ale,medium,draft
+9887,Terrapin Rye Pale Ale,9/19/2013 0:00,Mall of Georgia,5.3,Pale Ale,medium,bottle
+11339,TERRAPIN RYE SQUARED,4/17/2009 0:00,Crabapple,9,Strong Ale,medium,draft
+11757,TERRAPIN SUN RAY,6/11/2009 0:00,Crabapple,4.5,Hefeweizen,light,draft
+61212,TERRAPIN TREE HUGGER,4/3/2013 0:00,Mall of Georgia,4.9,Amber/Red Ale,medium,draft
+11333,TERRAPIN WAKE N BAKE,12/23/2013 0:00,Mall of Georgia,9.4,Imperial Stout,dark,draft
+11990,TERRAPIN/LH DEPTH CHARGE,10/6/2009 0:00,Crabapple,7.7,Stout,dark,draft
+10312,Thomas Creek App Ambr,4/11/2013 0:00,Crabapple,5.5,Amber/Red Ale,medium,bottle
+10313,Thomas Creek Class 5 IPA,12/17/2008 0:00,Crabapple,5.5,IPA,medium,can
+60331,THOMAS CREEK CLASS 5IPA,1/9/2014 0:00,Mall of Georgia,5.5,IPA,medium,draft
+9916,Thomas Hooker Blonde Ale,12/13/2008 0:00,Crabapple,5.1,Blonde Ale,light,bottle
+62168,THREE TAVERNS NIGHT BRS,12/21/2013 0:00,Crabapple,7.5,IPA,medium,draft
+62741,THREE TAVERNS QUASIMODO,7/26/2014 0:00,Crabapple,10,Quadrupel,medium,draft
+60321,TOMMYKNOCKER HOP STRIKE,2/14/2012 0:00,Windward,7,IPA,medium,draft
+11387,TOMMYKNOCKER IMP NUT BRWN,9/19/2013 0:00,Mall of Georgia,9.8,Brown Ale,dark,draft
+10033,Tommyknocker Jack Wheat,12/21/2007 0:00,Crabapple,5.4,Hefeweizen,light,bottle
+61177,TOMMYKNOCKER NICE SAISON,4/25/2013 0:00,Mall of Georgia,5.5,Saison,light,draft
+20294,Tommyknocker Pick Axe IPA,12/14/2012 0:00,Mall of Georgia,6.2,IPA,medium,bottle
+11401,TOMMYKNOCKER VIENNA AMBER,9/3/2008 0:00,Crabapple,5.3,Amber/Red Ale,medium,draft
+62556,TRAV BEER CO CURIS TRAVLR,12/29/2014 0:00,Crabapple,4.4,Fruit/Herbed/Spice Beer,medium,draft
+63631,TRAV BEER CO ILUSV TRAVLR,5/30/2015 0:00,Crabapple,4.4,Fruit/Herbed/Spice Beer,medium,draft
+23732,Truly Mixed Berry,5/4/2019 0:00,Prado,5,Hard Seltzer,light,can
+69122,TUCKER TKR PILSNER,3/30/2021 18:00,Crabapple,4.8,Pilsner,light,draft
+60895,UINTA HOP NOTCH IPA,7/21/2013 0:00,Crabapple,7.3,IPA,medium,draft
+11913,UINTA WYLD ORGANIC PALE,10/21/2009 0:00,Crabapple,4.8,Pale Ale,medium,draft
+68661,URBAN TREE FC,5/4/2019 0:00,Prado,6.5,Cider,light,draft
+67536,VARIANT RASPBERRY LEMON,4/9/2022 4:00,Crabapple,4.8,Sour Ale,medium,draft
+67536,VARIANT RASPBERRY LEMON,4/9/2022 20:37,Crabapple,4.8,Sour Ale,medium,draft
+20225,Victoria,4/15/2013 0:00,Mall of Georgia,4,Lager,light,bottle
+11477,VICTORY GOLDEN MONKEY T,10/29/2009 0:00,Crabapple,9.5,Tripel,medium,draft
+60418,VICTORY HEADWATERS PALE,12/11/2012 0:00,Crabapple,5,Pale Ale,medium,draft
+11480,VICTORY HOP DEVIL IPA,5/21/2009 0:00,Crabapple,6.7,IPA,medium,draft
+11530,VICTORY HOP WALLOP,1/11/2008 0:00,Crabapple,8.5,Double IPA,medium,draft
+62252,VICTORY MAD KING'S WEISS,8/5/2014 0:00,Johns Creek,6.2,Hefeweizen,light,draft
+61780,VICTORY NATO IPA,4/11/2013 0:00,Crabapple,7,IPA,medium,draft
+11481,VICTORY PRIMA PILS,5/30/2011 0:00,Crabapple,5.3,Pilsner,light,draft
+11533,VICTORY STORM KING STOU,2/15/2012 0:00,Mall of Georgia,9.1,Imperial Stout,dark,draft
+60226,VICTORY YAKIMA GLORY,2/10/2012 0:00,xEast Roswell,8.7,Double IPA,medium,draft
+11150,WARSTEINER,1/1/2008 0:00,Crabapple,4.8,Pilsner,light,draft
+9316,Warsteiner,4/25/2013 0:00,Mall of Georgia,4.8,Pilsner,light,bottle
+11286,WEIHENSTEPHAN DUNKEL WEIS,9/4/2008 0:00,Crabapple,5.3,Hefeweizen,light,draft
+11151,WEIHENSTEPHAN HEFE,12/12/2013 0:00,Mall of Georgia,5.4,Hefeweizen,light,draft
+9324,Weihenstephan Hefe 12oz,1/11/2008 0:00,Crabapple,5.4,Hefeweizen,light,bottle
+10735,Weihenstephan Vitus 16.9,8/13/2013 0:00,Mall of Georgia,7.7,Doppelbock,dark,bottle
+62174,WESTBROOK IPA,9/16/2013 0:00,Mall of Georgia,6.8,IPA,medium,draft
+20665,Westbrook IPA,7/21/2013 0:00,Crabapple,6.8,IPA,medium,bottle
+62150,WEYERBACHER LAST CHANCE,7/23/2013 0:00,Mall of Georgia,5.9,IPA,medium,draft
+62064,WIDMER ALCHEMY ALE,6/25/2013 0:00,Mall of Georgia,5.8,Pale Ale,medium,draft
+11837,WIDMER DRIFTER PALE ALE,7/2/2009 0:00,Crabapple,5.7,Pale Ale,medium,draft
+11838,WIDMER DROP TOP AMBER ALE,9/24/2009 0:00,Crabapple,5,Amber/Red Ale,medium,draft
+60885,WIDMER OKTO,10/10/2013 0:00,Mall of Georgia,5.3,Oktoberfest/Marzen,medium,draft
+60378,WILD HEAVEN SPECIAL WINTR,12/12/2013 0:00,Mall of Georgia,8.2,Brown Ale,dark,draft
+11155,WOODCHUCK AMBER,12/29/2008 0:00,Crabapple,5,Cider,light,draft
+62352,WRECKING BAR BREAKING BOB,12/19/2013 0:00,Mall of Georgia,4.8,Kolsch,light,draft
+9763,Xingu,12/28/2007 0:00,Crabapple,4.4,Dark Lager,dark,bottle
+10168,Yuengling Amber Lager,12/4/2008 0:00,Crabapple,4.9,Amber Lagers,medium,bottle
+10341,Yuengling Amber Lager 16,12/12/2012 0:00,Crabapple,4.9,Amber Lagers,medium,can
+60230,YUENGLING LIGHT,12/18/2012 0:00,Crabapple,3.8,Lager,light,draft
+20646,Yuengling Premium Beer 16,12/28/2012 0:00,Crabapple,4.9,Pilsner,light,bottle
+81575,BM ABITA BIG EASY,9/12/2016 0:00,Duluth,4.5,Session IPA,medium,draft
+80015,BM FINCHE'S WET HOT,5/1/2014 0:00,Crabapple,5,Wheat Beer,light,draft
+80133,BM JEKYLL HOOTN & HOLRN,3/28/2015 0:00,Windward,8,IPA,medium,draft
+80603,BM ROGUE 6 HOP IPA,1/23/2016 0:00,Mall of Georgia,6.6,IPA,medium,draft
+80007,BM STARR HILL NORTHERN LT,4/24/2014 0:00,Crabapple,6.5,IPA,medium,draft
+80009,BM STARR HILL THE LOVE,4/10/2014 0:00,Crabapple,4.6,Wheat Beer,light,draft
+80055,BM SWEETWATER TWO PILS,10/7/2014 0:00,Crabapple,5.5,Pilsner,light,draft
+85461,BOM MONDAY NT HAN BROLO,3/7/2019 0:00,Mall of Georgia,4.7,Pale Ale,medium,draft
+85463,BOM MONDAY NT NOT TMAC,3/7/2019 0:00,Mall of Georgia,5.2,Pale Ale,medium,draft
+86645,BOM NEW BELG HOP AVENGR,11/3/2019 0:00,Mall of Georgia,7.7,IPA,medium,draft
+86058,BOM OMMEGANG NIRVANA,7/11/2019 0:00,Mall of Georgia,6.5,IPA,medium,draft
+86057,BOM OMMEGANG PALE SOUR,7/11/2019 0:00,Mall of Georgia,6.9,Sour Ale,medium,draft
+84660,BOM SIERRA NEV HAZY THI,9/20/2018 0:00,Mall of Georgia,6.7,IPA,medium,draft
+86213,BOM SWEETWATER G13,8/22/2019 0:00,Mall of Georgia,6,IPA,medium,draft
+86217,BOM SWEETWTR KICK PLSTC,8/22/2019 0:00,Mall of Georgia,5.3,Pilsner,light,draft
+81677,BOM TERRAPIN LUAU KRUNK,10/27/2016 0:00,Crabapple,6.5,IPA,medium,draft
+87713,BOTM AUTOMATIC,3/30/2021 18:00,Crabapple,5.2,Pale Ale,medium,draft
+88158,BOTM FRESH HAZE,11/30/2021 19:32,Crabapple,6.5,IPA,medium,draft
+88181,BOTM HAZY IPA,1/9/2022 14:33,Windward,6.7,IPA,medium,draft
+88153,BOTM NIGHT ON PONCE,10/24/2021 17:17,Crabapple,7.5,IPA,medium,draft
+86867,BOTM PRINTS PRESS CHECK,1/16/2020 0:00,Mall of Georgia,5.6,Pale Ale,medium,draft
+88206,BOTM RETURN OF MAC,7/8/2022 13:43,Crabapple,6.8,Sour Ale,medium,draft
+88219,BOTM TERRAPIN RISE UP,9/21/2022 15:24,Crabapple,5.4,Pale Ale,medium,nooner
+12121,GUINNESS 20oz,3/23/2010 0:00,Crabapple,4.2,Stout,dark,draft
+84664,LIMITED BOULEVARD JAM B,9/20/2018 0:00,Mall of Georgia,5.9,Fruit/Herbed/Spice Beer,medium,draft
+62291,RED BRICK A-TOWN BROWN,9/27/2013 0:00,Crabapple,5.9,Brown Ale,dark,draft
+61973,RED BRICK BLACK EYE RYE,4/30/2013 0:00,Mall of Georgia,8,IPA,medium,draft
+9972,Red Brick Blonde,9/3/2008 0:00,Crabapple,4.9,Blonde Ale,light,bottle
+12269,RED BRICK LAUGHING SKUL,5/25/2011 0:00,xEllard Village,5.4,Amber/Red Ale,medium,draft
+60234,RED BRICK LONG JOHN,12/26/2010 0:00,Mall of Georgia,8.2,Belgian Dark Ale,dark,draft
+11499,RED BRICK OCTOBERFEST,9/4/2008 0:00,Crabapple,5.9,Oktoberfest/Marzen,medium,draft
+9783,Red Brick Pale Ale,7/25/2008 0:00,Crabapple,5.8,Pale Ale,medium,bottle
+61846,RED BRICK SMOKED VAN G 12,7/30/2013 0:00,Mall of Georgia,7.8,Porter,dark,draft
+11107,RED BRICK SUMMER,6/18/2009 0:00,Crabapple,4.7,Hefeweizen,light,draft
+12130,REUSE,12/28/2007 0:00,Crabapple,5,Lager,light,draft
+12131,REUSE,1/10/2008 0:00,Crabapple,4.5,Amber/Red Ale,medium,draft
+86830,TOM 2K MELVIN IPA,12/22/2019 0:00,Mall of Georgia,7.5,IPA,medium,draft
